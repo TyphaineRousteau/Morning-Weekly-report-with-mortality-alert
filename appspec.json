@@ -12,7 +12,7 @@
       "id": "year",
       "name": "The year",
       "description": "Insert description for the year setting setting",
-      "defaultValue": 2022,
+      "defaultValue": 2024,
       "type": "INTEGER"
     },
     {
